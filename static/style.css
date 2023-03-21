@@ -1,0 +1,28 @@
+body {
+    padding: 5rem;
+    background: linear-gradient(to bottom, #D9D7F1, #FFFDDE, #E7FBBE, #FFCBCB);
+}
+h1 {
+    font-size: 8rem;
+    font-weight: bold;
+}
+.space {
+    margin: 3rem;
+}
+.blue {
+    background: #CDFFFC;
+}
+.box {
+    width: 34%;
+    margin: auto;
+}
+.clr-box {
+    height: 50px;
+    width: 100%;
+    border-style: solid;
+}
+.container {
+    padding: 2rem;
+    background: white;
+    height: 400px
+}
